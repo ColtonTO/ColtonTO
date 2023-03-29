@@ -13,7 +13,7 @@
 </div>
 
 ---
-### 🏃‍♂️: ABOUT ME :
+### 🏃‍♂ ABOUT ME :
 I am a fullstack web developer from Bellingham, WA.
 - Started learning how to code in the fall of 2022, where I began a Fullstack web development bootcamp from the University of Washington
 - Currently 21 years old and am very much in the junior phases of a software and web developer
@@ -36,7 +36,9 @@ I am a fullstack web developer from Bellingham, WA.
 </div>
 
 ---
-
+### 📫 How to reach me : 
+- My email : colton1105@gmail.com
+- Connect with me on LinkedIn! : https://www.linkedin.com/in/colton-taylor-ortiz-45a53322a/
 <!--
 **ColtonTO/ColtonTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
