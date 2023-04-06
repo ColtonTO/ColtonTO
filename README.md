@@ -16,7 +16,7 @@
 ### 🏃‍♂ ABOUT ME :
 I am a fullstack web developer from Bellingham, WA.
 - Started learning how to code in the fall of 2022, where I began a Fullstack web development bootcamp from the University of Washington
-- Currently 21 years old and am very much in the junior phases of a software and web developer
+- Currently 21 years old and am a junior web developer
 - Love exercising and have been practicing several types of MMA for years
 - I have an adorable cat called Luna!
 ---
